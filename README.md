@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/ethereum/cpp-ethereum.png?label=ready&title=Ready)](https://waffle.io/ethereum/cpp-ethereum)
 # cpp-ethereum - Ethereum C++ client
 
 This repository contains [cpp-ethereum](http://cpp-ethereum.org), the [Ethereum](http://ethereum.org) C++ client.
